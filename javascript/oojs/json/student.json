@@ -1,0 +1,57 @@
+{
+    "className": "Web Development Bootcamp",
+    "location": "Ottawa",
+    "semester": "Winter",
+    "members": [
+        {
+            "Name": "Marry Jane",
+            "Age": "30",
+            "Gender": "Female",
+            "StudentStatus": [
+              "Graduate",
+              "Politics",
+              "Domestic Student"
+            ]
+        },
+        {
+            "Name": "Sophie Hyun",
+            "Age": "19",
+            "Gender": "Female",
+            "StudentStatus": [
+              "Undergraduate",
+              "Maths",
+              "Domestic Student"
+              ]
+        },
+        {
+            "Name": "Peter Parker",
+            "Age": "26",
+            "Gender": "Male",
+            "StudentStatus": [
+              "Graduate",
+              "Laws",
+              "International Student"
+              ]
+        },
+        {
+            "Name": "Joe Bilen",
+            "Age": "33",
+            "Gender": "Male",
+            "StudentStatus": [
+              "Graduate",
+              "Economics",
+              "International Student"
+              ]
+        },
+        {
+            "Name": "Lucie Carrington",
+            "Age": "37",
+            "Gender": "Female",
+            "StudentStatus": [
+              "Graduate",
+              "Science",
+              "Domestic Student"
+              ]
+        }
+      ]
+}
